@@ -1,8 +1,8 @@
-\# Hotel Management System
+\ Hotel Management System
 
 
 
-\## Overview
+\#Overview
 
 This is a console-based Hotel Management System implemented in C. It allows customers to book rooms, order food, and use hotel services, while calculating total costs including taxes. There's also an owner interface for viewing earnings and customer details, protected by a password. The system uses dynamic memory allocation to handle multiple customers and tracks total earnings.
 
